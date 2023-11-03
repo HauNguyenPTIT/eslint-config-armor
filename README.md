@@ -1,0 +1,1 @@
+## Armor ESLint Shared Configuation
